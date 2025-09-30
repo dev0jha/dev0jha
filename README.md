@@ -1,8 +1,10 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=header"/>
 
-  
 # Welcome to Dev Hari Ojha
+
+<!-- Holopin Badges Board -->
+[![An image of @dev0jha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/api/user/board?user=dev0jha)](https://holopin.io/@dev0jha)
 
 </div>
 
