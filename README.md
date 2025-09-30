@@ -1,4 +1,6 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=header"/>
+
   
 # Welcome to Dev Hari Ojha
 
@@ -25,9 +27,8 @@
 
 ### 📬 Follow My Way
 
-<div align="center">
+<div align="start">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev0jha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
@@ -92,52 +93,16 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev0jha&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=00D9FF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev0jha&theme=dark&hide_border=true&background=000000&ring=00D9FF&fire=00D9FF&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff)
+<div align="left">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev0jha&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff)
 
 </div>
 
----
-
-### 💭 Random Dev Quote
+</br>
 
 <div align="center">
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false&bg_color=000000)
-
-</div>
-
----
-
-### 💰 Support Me 
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com)
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dev0jha&theme=high-contrast&hide_border=true&bg_color=000000&color=00D9FF&line=00D9FF&point=ffffff)](https://github.com/dev0jha)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=dev0jha&color=00D9FF&style=flat-square&label=Profile+Views)
-
-**⭐ Show some love by starring my repositories!**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=header"/>
 
 </div>
