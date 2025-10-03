@@ -1,42 +1,12 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=header"/>
 
-# Welcome to Dev Hari Ojha
+# Welcome to D3V
 
 <!-- Holopin Badges Board -->
 [![An image of @dev0jha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/api/user/board?user=dev0jha)](https://holopin.io/@dev0jha)
 
 </div>
-
-### 🔥 About Me
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-**नमस्ते (Namaste)🙏🏻, I'm Dev Hari Ojha!**
-
-*Software Developer*  
-**वद("नमस्ते विश्व!");**
-
-🎯 **Goals:** "Building Software & Dreams | On a Journey from Code to Keys 🔑🏡"
-
-💻 Passionate about creating modern web applications and solving complex problems with elegant solutions.
-
-🚀 Constantly learning and exploring new technologies in the ever-evolving world of software development.
-
-⚡ **Fun fact:** I only like **problems** - because they're just opportunities in disguise!
-
----
-
-### 📬 Follow My Way
-
-<div align="start">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev0jha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-
-</div>
-
----
 
 ### 🛠️ Tech Stack
 
