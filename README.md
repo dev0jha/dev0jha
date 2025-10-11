@@ -4,7 +4,8 @@
 # Welcome to D3V
 
 <!-- Holopin Badges Board -->
-[![An image of @dev0jha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.io/api/user/board?user=dev0jha)](https://holopin.io/@dev0jha)
+[![Holopin Badge](https://holopin.me/dev0jha)](https://holopin.io/@dev0jha)
+
 
 </div>
 
