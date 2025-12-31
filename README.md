@@ -64,15 +64,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="left">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev0jha&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff)
-
-</div>
-
-</br>
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer"/>
