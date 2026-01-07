@@ -1,9 +1,7 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=header"/>
+<img width="100%" src="https://media.licdn.com/dms/image/v2/D5616AQE_ykcKlAH2Dw/profile-displaybackgroundimage-shrink_350_1400/B56ZuZUIVxGwAg-/0/1767803751004?e=1769644800&v=beta&t=VV-DvBCD4THgPiq2N43EqFK-LLqRfJx_cgZJqdumJeI"/>
 
-# Welcome to D3V
-
-<!-- Holopin Badges Board -->
+  <!-- Holopin Badges Board -->
 [![Holopin Badge](https://holopin.me/dev0jha)](https://holopin.io/@dev0jha)
 
 
