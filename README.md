@@ -1,6 +1,10 @@
 <div align="center">
-<img width="100%" src="https://media.licdn.com/dms/image/v2/D5616AQE_ykcKlAH2Dw/profile-displaybackgroundimage-shrink_350_1400/B56ZuZUIVxGwAg-/0/1767803751004?e=1769644800&v=beta&t=VV-DvBCD4THgPiq2N43EqFK-LLqRfJx_cgZJqdumJeI"/>
-
+<img
+  width="100%"
+  src="https://pbs.twimg.com/profile_banners/1977249423672696832/1768120848/600x200"
+  alt="Profile banner"
+/>
+  
   <!-- Holopin Badges Board -->
 [![Holopin Badge](https://holopin.me/dev0jha)](https://holopin.io/@dev0jha)
 
