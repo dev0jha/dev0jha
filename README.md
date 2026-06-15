@@ -5,7 +5,7 @@
     </td>
     <td align="right">
       <a href="https://devfolio.tech/">Portfolio</a> ·
-      <a href="https://linkedin.com/in/dev0jha">LinkedIn</a> ·
+      <a href="https://linkedin.com/in/devhariojha">LinkedIn</a> ·
       <a href="https://x.com/dev0jha">X</a>
     </td>
   </tr>
