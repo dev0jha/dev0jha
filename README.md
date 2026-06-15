@@ -1,10 +1,19 @@
+<table align="center" width="80%">
+  <tr>
+    <td align="left">
+      Engineer / Artist. Building, breaking, and shipping.
+    </td>
+    <td align="right">
+      <a href="https://devfolio.tech/">Portfolio</a> ·
+      <a href="https://linkedin.com/in/dev0jha">LinkedIn</a> ·
+      <a href="https://x.com/dev0jha">X</a>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
 <p align="center">
   <img src="headerimage.png" alt="Colorful Github Header">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=700&lines=Procastination+kills+progress;Today%27s+actions+build+tomorrow%27s+skills" alt="Quote" />
 </p>
 </div>
 
